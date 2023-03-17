@@ -1,0 +1,11 @@
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\bin\Debug\Суффиксное дерево.exe.config
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\bin\Debug\Суффиксное дерево.exe
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\bin\Debug\Суффиксное дерево.pdb
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное дерево.csproj.AssemblyReference.cache
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное дерево.csproj.SuggestedBindingRedirects.cache
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное_дерево.Form1.resources
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное_дерево.Properties.Resources.resources
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное дерево.csproj.GenerateResource.cache
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное дерево.csproj.CoreCompileInputs.cache
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное дерево.exe
+C:\Users\smvit\OneDrive\Рабочий стол\Суффиксное дерево\obj\Debug\Суффиксное дерево.pdb
